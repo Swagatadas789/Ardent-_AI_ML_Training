@@ -159,11 +159,11 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## 👤 Mentor
+## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/programmer-sahil)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/programmer-sahil)
+- GitHub: [@swagatadas789](https://github.com/swagatadas789)
+- LinkedIn: [Swagata Das](https://linkedin.com/in/Swagata DAS)
 
 ---
 
