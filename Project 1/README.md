@@ -163,7 +163,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 **Your Name**
 - GitHub: [@swagatadas789](https://github.com/swagatadas789)
-- LinkedIn: [Swagata Das](https://linkedin.com/in/Swagata DAS)
+- LinkedIn: [Swagata Das](www.linkedin.com/in/swagata-das-30b0153b2)
 
 ---
 
